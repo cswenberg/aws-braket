@@ -1,0 +1,6 @@
+amazon-braket-sdk
+autopep8
+jupyter_contrib_nbextensions
+bokeh
+dwave-ocean-sdk
+amazon-braket-ocean-plugin
